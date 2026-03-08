@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802775880830",
+    "project_id": "bookdistributionapp",
+    "storage_bucket": "bookdistributionapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802775880830:android:75762e1c9e78ae8d28f42f",
+        "android_client_info": {
+          "package_name": "com.example.bookdistribution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802775880830-spqdc0nioej6crutq7pijrj1stiagpd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-uUqbyCLXKhmzn3kFwhoClxsJHoT_F6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802775880830-spqdc0nioej6crutq7pijrj1stiagpd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
